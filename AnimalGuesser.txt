@@ -1,0 +1,6 @@
+Does it have fur?
+0
+Is it a dog?
+1
+Is it a fish?
+1
